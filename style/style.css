@@ -35,7 +35,7 @@ a{
     border: none;
 }
 #banner{
-    background-image: url("/assets/hero-bg.png");
+    background-image: url("../assets/hero-bg.png");
     height: 667px;
     align-items: center;
     padding: 155px 400px;
