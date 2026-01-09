@@ -181,3 +181,57 @@ gap: 16px;
     width: 20px; 
     height: 20px;
 }
+#early-access{
+    margin: 0 120px 120px 120px;
+    padding: 80px 40px;
+    align-items: center;
+    text-align: center;
+    background-color: #F7F6F2;
+    border-radius: 12px;
+}
+#early-access h2{
+    color: #001931;
+    font-size: 40px;
+    font-weight: bold;
+}
+#early-access .invite{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+#early-access .copyright{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-top: 16px;
+}
+footer{
+padding: 120px 120px 30px 120px;
+gap: 80px;
+background: #001931;
+color: #FFFFFF;
+text-align: center;
+}
+#footer-items #icons{
+  padding: 16px;  
+}
+#footer-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+hr{
+opacity: 0.2;
+align-self: stretch;
+}
+#last-p{
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FAFAFA;
+}
+
